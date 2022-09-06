@@ -1,7 +1,7 @@
 # Twitter-Database
 Database built using SQL to simulate Twitter real database . Got the first place in collage competition.
 <details>
-  <summary>Presentation</summary><details>
+  <summary>Presentation</summary>
   <img src="Twitter Presentation/Slide1.PNG" name="slide1">
   <img src="Twitter Presentation/Slide2.PNG" name="slide2">
   <img src="Twitter Presentation/Slide3.PNG" name="slide3">
